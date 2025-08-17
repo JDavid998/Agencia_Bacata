@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Este archivo ya no es necesario porque usas Tailwind en application.tailwind.css */
+/* Puedes dejarlo vacío o eliminarlo si no tienes otros estilos personalizados aquí. */
